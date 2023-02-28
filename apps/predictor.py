@@ -704,8 +704,9 @@ def app():
         sequence1 = st.sidebar.text_area("Sequence Input", height=200)
         abc = []
         if st.sidebar.button("Submit"):
+            
             st.balloons()
-            abc = sequence1
+            abc = sequence1.strip()
             count = []
             keeper = []
             len1 = len(abc)
