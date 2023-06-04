@@ -1,0 +1,33 @@
+Positive_Sites:
+
+Human = 2574 + 6366 = 8940
+
+Mouse = 1052 + 1064 = 2116
+
+S.cerevisiae = 1220 + 483 = 1703
+
+Schizosaccharomyces pombe = 479
+
+Total positive sites = 13238
+
+After CD-Hit at 80% = 11978 
+
+Negative_Site:
+
+Human = 2574 + 6366 = 8940
+
+Mouse = 1052 + 1064 = 2116
+
+S.cerevisiae = 1220 + 483 = 1703
+
+Schizosaccharomyces pombe = 479
+
+Total Negative sites = 13238
+
+After CD-Hit at 80% = 12716
+
+
+
+
+
+
